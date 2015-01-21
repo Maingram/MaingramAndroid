@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Administrador/Downloads/Maingram-master/Telegram-master/TMessagesProj/src/main/res/values-sw600dp/values.xml -->
+    <eat-comment/>
+    <bool name="isTablet">true</bool>
+</resources>

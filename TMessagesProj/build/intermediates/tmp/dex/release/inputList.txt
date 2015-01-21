@@ -1,0 +1,8 @@
+C:\Users\Administrador\Downloads\Maingram-master\Telegram-master\TMessagesProj\build\intermediates\classes\release
+C:\Users\Administrador\Downloads\Maingram-master\Telegram-master\TMessagesProj\build\intermediates\pre-dexed\release\support-annotations-21.0.3-d07be3124a4ff81737859f5d3e5601f8166c2f63.jar
+C:\Users\Administrador\Downloads\Maingram-master\Telegram-master\TMessagesProj\build\intermediates\pre-dexed\release\aspectjrt-1.8.2-5b3faa691df6c7babcb52791432806eb809b6cbb.jar
+C:\Users\Administrador\Downloads\Maingram-master\Telegram-master\TMessagesProj\build\intermediates\pre-dexed\release\HockeySDK-3.0.2-d48dbf34e8cc0b537be5b957b5f49a56b318929c.jar
+C:\Users\Administrador\Downloads\Maingram-master\Telegram-master\TMessagesProj\build\intermediates\pre-dexed\release\internal_impl-21.0.3-67be4934fb0833039aa2d526e2573d6978df4bed.jar
+C:\Users\Administrador\Downloads\Maingram-master\Telegram-master\TMessagesProj\build\intermediates\pre-dexed\release\classes-9d64be2b5cfff4fa98cceaff6696f1d7b21cbd25.jar
+C:\Users\Administrador\Downloads\Maingram-master\Telegram-master\TMessagesProj\build\intermediates\pre-dexed\release\isoparser-1.0.5.4-75dc27f57f183e0fc6c6f1b795a3075f93f23909.jar
+C:\Users\Administrador\Downloads\Maingram-master\Telegram-master\TMessagesProj\build\intermediates\pre-dexed\release\classes-ce57c657e3e6af263636a367e0168cb9c9eddb92.jar
