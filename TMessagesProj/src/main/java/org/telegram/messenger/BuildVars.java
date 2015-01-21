@@ -10,9 +10,9 @@ package org.telegram.messenger;
 
 public class BuildVars {
     public static boolean DEBUG_VERSION = false;
-    public static int APP_ID = 14088; //obtaion your own APP_ID at https://core.telegram.org/api/obtaining_api_id
-    public static String APP_HASH = "8c0385aab9ae5b46929d21d08489297f"; //obtaion your own APP_HASH at https://core.telegram.org/api/obtaining_api_id
-    public static String HOCKEY_APP_HASH = "AIzaSyAQ5Zc1bHfMR94yjAFCnEZFVV0DIPODheA";
-    public static String GCM_SENDER_ID = "724309846316";
-    public static String SEND_LOGS_EMAIL = "alisiumstudio@gmail.com";
+    public static int APP_ID = APP ID ADQUIRIDO; //obtaion your own APP_ID at https://core.telegram.org/api/obtaining_api_id
+    public static String APP_HASH = "APP HASH ADIQUIRIDO"; //obtaion your own APP_HASH at https://core.telegram.org/api/obtaining_api_id
+    public static String HOCKEY_APP_HASH = "KEY API GCM";
+    public static String GCM_SENDER_ID = "Número ID do API GCM";
+    public static String SEND_LOGS_EMAIL = "email@email.com";
 }

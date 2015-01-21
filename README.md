@@ -7,7 +7,7 @@
 
 ** Cuidado ao usar o ramo dev e carregá-lo para qualquer um dos mercados, em muitos casos, não vai funcionar como esperado **.
 
-Primeiro de tudo, dar uma olhada no ** src / main / java / org / telegrama / messenger / BuildVars.java ** e preenchê-lo com os valores corretos.
+Primeiro de tudo, dar uma olhada no ** src / main / java / org / telegram / messenger / BuildVars.java ** e preenchê-lo com os valores corretos.
 Importe a pasta raiz em seu IDE (testado em Android Studio), em seguida, executar projeto.
 
 ### Localização
